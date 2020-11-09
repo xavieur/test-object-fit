@@ -5,3 +5,5 @@ Se expone visualmente las siguientes opciones de la propiedad CSS **object-fit**
 + cover
 + fill
 + scale-down 
+
+[git pages link](https://xavieur.github.io/test-object-fit/)
